@@ -1,0 +1,13 @@
+cookiecutter-data-science==2.0.1
+numpy==2.2.3
+pandas==2.2.3
+matplotlib==3.10.1
+plotly==6.0.0
+scikit-learn==1.6.1
+pandas==2.2.3
+sshtunnel == 0.4.0
+python-dotenv==1.0.1
+streamlit==1.38.0
+pymysql==1.1.1
+meteostat==1.6.8
+nbformat>=4.2.
